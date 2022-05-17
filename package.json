@@ -1,0 +1,28 @@
+{
+  "name": "project4-urlshortenergroup87",
+  "version": "1.0.0",
+  "description": "Phase I\r Overview\r URL shortening is used to create shorter aliases for long URLs. We call these shortened aliases “short links.” Users are redirected to the original URL when they hit these short links. Short links save a lot of space when displayed, printed, messaged, or tweeted. Additionally, users are less likely to mistype shorter URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyasingh0405/project4-urlshortenerGroup87.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyasingh0405/project4-urlshortenerGroup87/issues"
+  },
+  "homepage": "https://github.com/Shreyasingh0405/project4-urlshortenerGroup87#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.16",
+    "type": "^2.6.0",
+    "url": "^0.11.0"
+  }
+}
